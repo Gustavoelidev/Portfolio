@@ -1,0 +1,9 @@
+:root {
+    --primary-color: #0a0a0a;
+    --secondary-color: #6c757d;
+    --background-color: #f8f9fa;
+    --card-background: #ffffff;
+    --accent-color: #007bff;
+    --font-family: 'Poppins', sans-serif;
+    --header-height: 70px;
+}
